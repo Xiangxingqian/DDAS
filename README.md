@@ -1,0 +1,1 @@
+DDAS(DingDingTalk Automatic Signer) is an automatic signer for DingDingTalk, it will sign automatic when you are on/off the work.  
